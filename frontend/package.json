@@ -1,0 +1,27 @@
+{
+  "name": "web-lab2-frontend",
+  "version": "1.0.0",
+  "description": "React + Redux frontend for Web Lab 2",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "axios": "^1.6.2",
+    "plotly.js": "^3.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-plotly.js": "^2.6.0",
+    "react-redux": "^9.0.0",
+    "react-router-dom": "^6.20.0",
+    "redux": "^5.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^7.3.0"
+  }
+}
+
